@@ -1,3 +1,8 @@
 {
-"nome":"Erick"
+    "nome":"SAO JOAO DEL REY",
+    "estado":{
+        "nome":"MINAS GERAIS",
+        "sigla":"MG",
+        "cod":"1"
+    }
 }
