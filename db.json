@@ -18,7 +18,7 @@
       "cambio":"manual"
       "portas":"4"
       "combustivel":"Flex",
-      "cor":"Branco",
+      "cor":"Branco"
     },
     {
       "marca":"Honda"
@@ -28,7 +28,7 @@
       "cambio":"manual"
       "portas":"4"
       "combustivel":"Flex",
-      "cor":"Preto",
+      "cor":"Preto"
     },
     {
       "marca":"Honda"
@@ -38,7 +38,7 @@
       "cambio":"manual"
       "portas":"4"
       "combustivel":"Flex",
-      "cor":"Prata",
+      "cor":"Prata"
     }
   ]
 }
